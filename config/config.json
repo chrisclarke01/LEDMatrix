@@ -143,7 +143,7 @@
         ],
         "update_interval": 3600,
         "scroll_speed": 1,
-        "scroll_delay": 0.02,
+        "scroll_delay": 0.03,
         "loop": true,
         "future_fetch_days": 50,
         "show_channel_logos": true,
@@ -361,7 +361,7 @@
         }
     },
     "text_display": {
-        "enabled": false,
+        "enabled": true,
         "text": "GO GATORS!",
         "font_path": "assets/fonts/press-start-2p.ttf",
         "font_size": 8,
