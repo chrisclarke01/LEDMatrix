@@ -1,10 +1,9 @@
 # LEDMatrix
 
-### chrisclark101 Fork
+### chrisclarke101 Fork
 I forked this repo to add specific configurations and special features I want for my specific LED setup.
 
 ##### Goals
-- [ ] Decrease scrolling speed on odds ticker
 - [ ] Add a setting to only display top 25 CFB teams
 - [ ] Based on current weekday, only display certain sports (ie, on Saturdays, display CFB, on Sundays, display NFL, etc)
 
