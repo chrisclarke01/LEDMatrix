@@ -6,6 +6,7 @@ I forked this repo to add specific configurations and special features I want fo
 ##### Goals
 - [ ] Add a setting to only display top 25 CFB teams
 - [ ] Based on current weekday, only display certain sports (ie, on Saturdays, display CFB, on Sundays, display NFL, etc)
+- [ ] Add automatic enabling/disabling of sports leagues based on season times
 
 ### Setup video and feature walkthrough on Youtube : 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_HaqfJy1Y54/0.jpg)](https://www.youtube.com/watch?v=_HaqfJy1Y54)

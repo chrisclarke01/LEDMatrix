@@ -143,8 +143,8 @@
         ],
         "update_interval": 3600,
         "scroll_speed": 1,
-        "scroll_delay": 0.03,
-        "loop": false,
+        "scroll_delay": 0.02,
+        "loop": true,
         "future_fetch_days": 50,
         "show_channel_logos": true,
         "dynamic_duration": true,
@@ -163,7 +163,7 @@
         ]
     },
     "nhl_scoreboard": {
-        "enabled": true,
+        "enabled": false,
         "live_priority": true,
         "live_game_duration": 15,
         "show_odds": true,
@@ -262,7 +262,7 @@
         }
     },
     "ncaa_baseball_scoreboard": {
-        "enabled": true,
+        "enabled": false,
         "live_priority": true,
         "live_game_duration": 15,
         "show_odds": true,
@@ -286,7 +286,7 @@
         }
     },
     "ncaam_basketball_scoreboard": {
-        "enabled": true,
+        "enabled": false,
         "live_priority": true,
         "live_game_duration": 15,
         "show_odds": true,
